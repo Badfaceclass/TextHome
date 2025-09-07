@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\bin\Debug\Gitprueba.exe.config
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\bin\Debug\Gitprueba.exe
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\bin\Debug\Gitprueba.pdb
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\obj\Debug\Gitprueba.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\obj\Debug\Gitprueba.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\obj\Debug\Gitprueba.exe
+C:\Users\PC\Desktop\Pruebas de gitbash\Gitprueba\Gitprueba\obj\Debug\Gitprueba.pdb
