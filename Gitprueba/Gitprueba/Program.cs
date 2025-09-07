@@ -13,8 +13,8 @@ namespace Gitprueba
             Console.Write("Ingrese su nombre: ");
             string nombre = Console.ReadLine().ToUpper();
 
-            Console.Write("Ingrese su nombre: ");
-            int edad = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Ingrese su nombre: ");
+            //int edad = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
